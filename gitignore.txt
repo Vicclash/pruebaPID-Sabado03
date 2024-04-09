@@ -1,0 +1,4 @@
+# archivos que se ignoran
+*.doc
+*.docx
+Documento.doc
